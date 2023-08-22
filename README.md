@@ -1,2 +1,12 @@
 # ASM2_1641
-csv and ipynb file
+In this file, we'll analyze the data NYC Taxi Trip Duration
+***
+# INTRODUCE
+### Tran Ngoc Thanh
+### Le Thi Mai Hoa
+### Nghiem Le Thanh Huy
+---
+
+
+
+
